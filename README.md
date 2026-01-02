@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on reinforcement learning
-- 🌱 I’m currently learning reinforcment learning
+- 🌱 I’m currently learning how to make reinforcment learning work
 - 👯 I’m looking to collaborate on anything
 - 🤔 I’m looking for help with reinforcement learning
 - 💬 Ask me about anything I know
