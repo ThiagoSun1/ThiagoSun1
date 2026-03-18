@@ -8,6 +8,7 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I like working with AI
+- You should checkout joannasun1996-a11y's github😄👍
 
 <!--
 **ThiagoSun1/ThiagoSun1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
