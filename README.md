@@ -1,3 +1,5 @@
+# Introduction
+
 Hi, I'm Thiago. I like building AI projects that solve real-world problems. My main project is Intelligent CareGuardian, a privacy-first patient monitoring system that runs locally on NVIDIA Jetson Orin Nano. 
 
 ## Intelligent CareGuardian 
